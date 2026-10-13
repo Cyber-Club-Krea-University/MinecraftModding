@@ -1,0 +1,5 @@
+# About Skript
+
+Welcome to this guide on modding for minecraft with Skript. What is Skript? The project is described as "a Paper plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them."
+
+Paper is a minecraft server software. When it comes to modding minecraft, there are two kinds of mods. Client side mods and server side mods. Server side mods do not require players to modify the game and modifications to the game are made by the server. (Server side mods are typically easier to make). Skript let's you create these server side mods. One big bonus of Skript is that the plugins are coded almost like typing instructions in plain english. Most mods need to be coded in Java, so this is far easier.
