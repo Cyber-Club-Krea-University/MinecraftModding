@@ -9,7 +9,7 @@ Make sure to place the paper-mc jar file you downloaded in a directory. Next, ru
 eula=false
 ```
 
-Change the line that says `eula=false` to `eula=true`. Doing this means you're agreeing to the (minecraft eula)[https://www.minecraft.net/en-us/eula] (these are just the legal terms and conditions that you need to agree on so you can run a minecraft server).
+Change the line that says `eula=false` to `eula=true`. Doing this means you're agreeing to the [minecraft eula](https://www.minecraft.net/en-us/eula) (these are just the legal terms and conditions that you need to agree on so you can run a minecraft server).
 
 Another files called `server.properties` should be generated. This is a config file with multiple options. For example, the `MOTD` or message of the data controls the descriptions of the server you see in the multiplayer menu. The `online-mode` setting decides on whether you want your server to authenticate users. Setting `online-mode` to false lets players without Mojang accounts join your server. 
 

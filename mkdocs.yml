@@ -1,9 +1,11 @@
-site_name: Arduino Guide
+site_name: Minecraft Modding Guide
 
 nav:
   - Welcome: index.md
   - Getting Started: getting-started.md
   - First Mod: first-mod.md
+  - Events: events.md
+  - Variables: variables.md
 
 
 theme:
