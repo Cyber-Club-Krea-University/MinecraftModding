@@ -72,4 +72,4 @@ on damage:
     send action bar "&4&l %{tagger}% is the Tagger!" to players
 ```
 
-Notice how tagger and time are global variables because if they were local they wouldn't be accessible in the on damage block, however, the bar variable can be local because it's not accessed outside of the start command (in fact a bar can't be set to a global variable!)
+Notice how tagger and time are global variables. If they were local, they wouldn't be accessible in the on damage code block, however, the bar variable can be local because it's not accessed outside of the start command (in fact a bar can't be set to a global variable!)

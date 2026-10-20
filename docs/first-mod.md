@@ -15,3 +15,7 @@ on projectile hit:
 ```
 
 To make sure the most up-to-date version of your mod is running, go to the server console and type `skript reload scripts`.
+
+![Console](assets/console.png)
+
+Alternatively, you can `op` yourself by typing `op <username>` in the console to give yourself admin powers. Then, you can run `/skript reload scripts` from minecraft itself as a minecraft command.
